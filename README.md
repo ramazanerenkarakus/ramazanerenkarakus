@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ramazan Eren Karakus</h1>
 <h3 align="center">Computer Engineering Student</h3>
 <h4 align="center">A passionate back-end developer from Türkiye</h4>
 
