@@ -1,5 +1,5 @@
-<h3 align="center">Computer Engineering Student</h3>
-<h4 align="center">A passionate back-end developer from Türkiye</h4>
+<h2 align="center">Computer Engineering Student</h2>
+<h3 align="center">A passionate back-end developer from Türkiye</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
